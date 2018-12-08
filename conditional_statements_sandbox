@@ -1,0 +1,7 @@
+var dog = "satisfied"
+
+if (dog === "hungry") {
+  console.log("I'm hungry."
+} else {
+  console.log("Reading Newspaper.")
+}
